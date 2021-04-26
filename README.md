@@ -1,4 +1,6 @@
-# demo
+# Demo
+- [Demo Website](http://106.14.216.118:3002/region)
+- [Demo Video](https://www.youtube.com/watch?v=R-OWenNrUKA)
 
 ## Project setup
 ```
