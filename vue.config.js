@@ -5,6 +5,12 @@ module.exports = {
     "style-resources-loader": {
       preProcessor: "scss",
       patterns: [path.resolve(__dirname, "./src/assets/styles/scss/import.scss")]
-    }
-  }
+    },
+  },
+  configureWebpack: {
+    devtool: 'source-map'
+  },
+  publicPath: process.env.NODE_ENV === 'production' 
+    ? path.resolve(__dirname, "/la_bikeshare")
+    : '/'
 };
