@@ -1,7 +1,7 @@
 A data visualization project for Los Angeles Metro Bike Share service. The project builds a service monitoring tool, aiming at providing actionable insights for service providers to help them make informed decisions about station planning and bike deployment.
 
 ## Demo
-- Demo Website: [Main Link](http://106.14.216.118/la_bikeshare) / [Backup Link](http://pdms.usc.edu/dsci-554-projects/project-love554)
+- Demo Website: [Link](http://pdms.usc.edu/dsci-554-projects/project-love554)
 - Demo Video: [YouTube Link](https://www.youtube.com/watch?v=R-OWenNrUKA)
 
 ## Tech Features
